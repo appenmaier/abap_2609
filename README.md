@@ -40,44 +40,6 @@
 | 11:30 – 12:30 | Mittagspause                     |
 | 12:30 – 16:00 | Schulung                         |
 
-## Systeminformationen
-
-| DuSA                 | Kennung | Benutzername |
-| --- | --- | --- |
-| Adem R. | 27 | TRAIN-27 |
-| Andrii H. | 09 | TRAIN-09 |
-| Anton F. | 05 | TRAIN-05 |
-| Anton K. | 11 | TRAIN-11 |
-| Colin B. | 19 | TRAIN-19 |
-| David M. | 12 | TRAIN-12 |
-| David W. | 17 | TRAIN-17 |
-| Felix E. | 22 | TRAIN-22 |
-| Florian G. | 23 | TRAIN-23 |
-| Florian V. | 16 | TRAIN-16 |
-| Fynn-Lasse H. | 07 | TRAIN-07 |
-| Jakob R. | 13 | TRAIN-13 |
-| Jakob S. | 31 | TRAIN-31 |
-| Jona B. | 21 | TRAIN-21 |
-| Jona H. | 24 | TRAIN-24 |
-| Julian B. | 20 | TRAIN-20 |
-| Kian T. | 15 | TRAIN-15 |
-| Lars H. | 08 | TRAIN-08 |
-| Laurence D. | 04 | TRAIN-04 |
-| Linus K. | 10 | TRAIN-10 |
-| Magnus S. | 30 | TRAIN-30 |
-| Marcel K. | 26 | TRAIN-26 |
-| Max T. | 33 | TRAIN-33 |
-| Milo B. | 01 | TRAIN-01 |
-| Moritz G. | 06 | TRAIN-06 |
-| Nikita S. | 29 | TRAIN-29 |
-| Oscar R. | 28 | TRAIN-28 |
-| Philipp W. | 18 | TRAIN-18 |
-| Sven S. | 32 | TRAIN-32 |
-| Tim B. | 03 | TRAIN-03 |
-| Tom B. | 02 | TRAIN-02 |
-
-**ABAP-Instanz**: _folgt_
-
 ## System einrichten
 
 1. [ABAP Development Tools (ADTs) installieren](https://appenmaier.github.io/s4hana/additional-material/adt)
