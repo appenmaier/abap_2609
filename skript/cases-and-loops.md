@@ -1,5 +1,9 @@
 # Verzweigungen, Fallunterscheidungen und Schleifen
 
+**Abbildungen**
+
+<img width="1866" height="1035" alt="image" src="https://github.com/user-attachments/assets/344f8dc6-046e-4f07-a149-24054f35d563" />
+
 **Links**
 
 - [Doku: Verzweigungen und Fallunterscheidungen](https://appenmaier.github.io/s4hana/documentation/abap/cases)
