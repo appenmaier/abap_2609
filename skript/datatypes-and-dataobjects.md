@@ -12,4 +12,4 @@
 - [Doku: Datenobjekte](https://appenmaier.github.io/s4hana/documentation/abap/data-objects)
 - [Übungsaufgabe: ABAP-01](https://appenmaier.github.io/s4hana/exercises/abap/abap-01) ([Musterlösung](../src/zcl_00_abap_01.clas.abap))
 - [Übungsaufgabe: ABAP-02](https://appenmaier.github.io/s4hana/exercises/abap/abap-02) ([Musterlösung](../src/zcl_00_abap_02.clas.abap))
-- [Demo](../src/zcl_00_demo_01.clas.abap)
+- [Demo 1: Datatypes and Dataobjects](../src/zcl_00_demo_01.clas.abap)
