@@ -63,4 +63,10 @@
   - [Übungsaufgabe ABAP-01](https://appenmaier.github.io/s4hana/exercises/abap/abap-01)
   - [Übungsaufgabe ABAP-02](https://appenmaier.github.io/s4hana/exercises/abap/abap-02)
 
- 
+## Skript
+
+- Einführung
+  - [Die Programmiersprache ABAP](skript/abap.md)
+- Grundlegende Sprachelemente
+  - [Datentypen und Datenobjekte](skript/datatypes-and-dataobjects.md)
+  - [Mathematische Operatoren, Mathematische Funktionen, Zeichenketten und Zeichenketten-Templates](skript/calculations.md)
