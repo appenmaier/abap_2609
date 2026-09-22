@@ -70,3 +70,4 @@
 - Grundlegende Sprachelemente
   - [Datentypen und Datenobjekte](skript/datatypes-and-dataobjects.md)
   - [Mathematische Operatoren, Mathematische Funktionen, Zeichenketten und Zeichenketten-Templates](skript/calculations.md)
+  - [Verzweigungen, Fallunterscheidungen und Schleifen](skript/cases-and-loops.md)
