@@ -63,6 +63,8 @@
   - [Übungsaufgabe ABAP-01](https://appenmaier.github.io/s4hana/exercises/abap/abap-01)
   - [Übungsaufgabe ABAP-02](https://appenmaier.github.io/s4hana/exercises/abap/abap-02)
 
+## Inhalte Selbststudium Mittwoch
+
 ## Skript
 
 - Einführung
@@ -73,4 +75,4 @@
   - [Verzweigungen, Fallunterscheidungen und Schleifen](skript/cases-and-loops.md)
   - [Klassenmethoden](skript/static-methods.md)
   - [Strukturen und interne Tabellen](skript/structures-and-internal-tables.md)
-  - ABAP SQL
+  - [ABAP SQL](skript/abap-sql.md)
