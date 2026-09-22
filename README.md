@@ -69,4 +69,4 @@
   - [Die Programmiersprache ABAP](skript/abap.md)
 - Grundlegende Sprachelemente
   - [Datentypen und Datenobjekte](skript/datatypes-and-dataobjects.md)
- 
+  - [Mathematische Operatoren, Mathematische Funktionen, Zeichenketten und Zeichenketten-Templates](skript/calculations.md)
