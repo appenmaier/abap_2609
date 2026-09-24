@@ -13,7 +13,7 @@
 
 - [Doku: Strukturen](https://appenmaier.github.io/s4hana/documentation/abap/structures)
 - [Doku: Interne Tabellen](https://appenmaier.github.io/s4hana/documentation/abap/internal-tables)
-- [Übungsaufgabe: ABAP-05](https://appenmaier.github.io/s4hana/exercises/abap/abap-05)
-- [Übungsaufgabe: ABAP-06](https://appenmaier.github.io/s4hana/exercises/abap/abap-06)
-- [Übungsaufgabe: ABAP-07](https://appenmaier.github.io/s4hana/exercises/abap/abap-07)
+- [Übungsaufgabe: ABAP-05](https://appenmaier.github.io/s4hana/exercises/abap/abap-05) ([Musterlösung](../src/zcl_00_abap_05.clas.abap))
+- [Übungsaufgabe: ABAP-06](https://appenmaier.github.io/s4hana/exercises/abap/abap-06) ([Musterlösung](../src/zcl_00_abap_06.clas.abap))
+- [Übungsaufgabe: ABAP-07](https://appenmaier.github.io/s4hana/exercises/abap/abap-07) ([Musterlösung](../src/zcl_00_abap_07.clas.abap))
 - [Übungsaufgabe: ABAP-08](https://appenmaier.github.io/s4hana/exercises/abap/abap-08)
