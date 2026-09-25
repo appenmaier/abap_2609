@@ -1,0 +1,14 @@
+CLASS zcl_00_hotel DEFINITION
+  PUBLIC FINAL
+  CREATE PUBLIC.
+
+  PUBLIC SECTION.
+    INTERFACES zif_00_partner.
+ENDCLASS.
+
+
+CLASS zcl_00_hotel IMPLEMENTATION.
+  METHOD zif_00_partner~get_info.
+    info = |Im a Hotel|.
+  ENDMETHOD.
+ENDCLASS.
